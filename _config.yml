@@ -1,6 +1,6 @@
 title: My Portfolio
 description: Personal portfolio of Rishav
-baseurl: "" # Leave blank for root-level URLs
+baseurl: "rishavv1.github.io" # Leave blank for root-level URLs
 url: "https://rishavv1.github.io" # Replace "username" with your GitHub username
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
