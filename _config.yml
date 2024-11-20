@@ -1,11 +1,11 @@
 title: My Portfolio
 description: Personal portfolio of Rishav
 baseurl: "" # Leave blank for root-level URLs
-url: "https://username.github.io" # Replace "username" with your GitHub username
-theme: cayman
+url: "https://rishavv1.github.io" # Replace "username" with your GitHub username
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-remote-theme # Allows remote themes
-  - jekyll-seo-tag      # Adds SEO optimization
-  - jekyll-sitemap      # Creates a sitemap for search engines
-  - jekyll-feed         # Adds an RSS feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+
